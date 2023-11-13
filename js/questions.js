@@ -46,7 +46,7 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Em "Piratas do Caribe", qual pirata detesta não ser chamado de "capitão" antes do seu nome?",
+    question: "Em Piratas do Caribe, qual pirata detesta não ser chamado de capitão antes do seu nome?",
     answer: "Jack Sparrow",
     options: [
       "Davy Jones",
