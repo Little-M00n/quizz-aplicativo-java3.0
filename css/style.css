@@ -8,7 +8,7 @@
 }
 
 body{
-    background: rgb(178,34,34);
+    background: rgb(75,0,130);
 }
 
 ::selection{
@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(32,178,170), 
+                0 6px 20px 0 rgba(30,144,255);
 }
 
 .info_box.activeInfo,
@@ -51,7 +51,7 @@ body{
 }
 .start_btn button:hover{
     transform: scale(1.5);
-    color: rgb(90, 0, 187);
+    color: rgb(160,82,45);
 }
 
 .info_box{
