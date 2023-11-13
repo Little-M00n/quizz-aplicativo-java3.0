@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Quantas letras tem a maior palavra do mundo?",
+    answer: "189.819",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "21.578",
+      "346.764",
+      "189.819",
+      "56.792"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual o país mais velho do mundo?",
+    answer: "japão",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "EUA",
+      "Japão",
+      "Portugal",
+      "Itália"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual a maior estrela do universo?",
+    answer: "VY Canis Majoris",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "UY Scuti",
+      "Betelgeuse",
+      "Sol",
+      "VY Canis Majoris"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Quantos ossos, ao todo, há em um ser humano?",
+    answer: "206",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "206",
+      "147",
+      "344",
+      "139"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Em "Piratas do Caribe", qual pirata detesta não ser chamado de "capitão" antes do seu nome?",
+    answer: "Jack Sparrow",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Davy Jones",
+      "Jack Sparrow",
+      "Hector Barbosa",
+      "Bill Turner"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
